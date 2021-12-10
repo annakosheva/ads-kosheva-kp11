@@ -1,0 +1,14 @@
+C:\Users\annak\source\repos\lab3_asd\lab3_asd\bin\Debug\netcoreapp3.1\lab3_asd.exe
+C:\Users\annak\source\repos\lab3_asd\lab3_asd\bin\Debug\netcoreapp3.1\lab3_asd.deps.json
+C:\Users\annak\source\repos\lab3_asd\lab3_asd\bin\Debug\netcoreapp3.1\lab3_asd.runtimeconfig.json
+C:\Users\annak\source\repos\lab3_asd\lab3_asd\bin\Debug\netcoreapp3.1\lab3_asd.runtimeconfig.dev.json
+C:\Users\annak\source\repos\lab3_asd\lab3_asd\bin\Debug\netcoreapp3.1\lab3_asd.dll
+C:\Users\annak\source\repos\lab3_asd\lab3_asd\bin\Debug\netcoreapp3.1\lab3_asd.pdb
+C:\Users\annak\source\repos\lab3_asd\lab3_asd\obj\Debug\netcoreapp3.1\lab3_asd.csproj.AssemblyReference.cache
+C:\Users\annak\source\repos\lab3_asd\lab3_asd\obj\Debug\netcoreapp3.1\lab3_asd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annak\source\repos\lab3_asd\lab3_asd\obj\Debug\netcoreapp3.1\lab3_asd.AssemblyInfoInputs.cache
+C:\Users\annak\source\repos\lab3_asd\lab3_asd\obj\Debug\netcoreapp3.1\lab3_asd.AssemblyInfo.cs
+C:\Users\annak\source\repos\lab3_asd\lab3_asd\obj\Debug\netcoreapp3.1\lab3_asd.csproj.CoreCompileInputs.cache
+C:\Users\annak\source\repos\lab3_asd\lab3_asd\obj\Debug\netcoreapp3.1\lab3_asd.dll
+C:\Users\annak\source\repos\lab3_asd\lab3_asd\obj\Debug\netcoreapp3.1\lab3_asd.pdb
+C:\Users\annak\source\repos\lab3_asd\lab3_asd\obj\Debug\netcoreapp3.1\lab3_asd.genruntimeconfig.cache
